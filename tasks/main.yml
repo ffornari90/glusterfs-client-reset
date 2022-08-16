@@ -1,0 +1,3 @@
+---
+# tasks file for glusterfs-reset
+- import_tasks: unmount_fs.yaml
