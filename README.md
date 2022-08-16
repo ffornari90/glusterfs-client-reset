@@ -1,7 +1,7 @@
-Role Name
+Ansible GlusterFS Client Reset
 =========
 
-A brief description of the role goes here.
+Ansible role for GlusterFS client reset.
 
 Requirements
 ------------
